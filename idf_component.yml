@@ -1,0 +1,4 @@
+description: "ESP-IDF Simple Lora Service"
+version: "1.0.0"
+url: "https://github.com/redarflap/loraService"
+license: "MIT"
